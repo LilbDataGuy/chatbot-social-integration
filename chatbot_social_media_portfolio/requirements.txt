@@ -1,0 +1,6 @@
+flask
+transformers
+facebook-sdk
+linkedin-api
+python-dotenv
+torch
